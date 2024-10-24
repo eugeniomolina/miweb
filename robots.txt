@@ -1,1 +1,1 @@
-Sitemap: https://eugeniomolina.github.io/ugeweb/sitemap.xml
+Sitemap: https://eugeniomolina.github.io/miweb/sitemap.xml
