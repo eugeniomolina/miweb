@@ -4,10 +4,10 @@ project:
 
 
 website:
-  title: "My website"
+  title: "Eugenio Molina Navarro"
   description: "I am a scientist"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
+  repo-url: https://github.com/eugeniomolina/ugeweb.git
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
@@ -25,7 +25,10 @@ website:
         text: Home
       - Projects.qmd
       - Publications.qmd
-      - Blog.qmd
+      - Docencia.qmd
+      - Sobremi.qmd
+
+#Ha quitado los iconos de la barrar de arriba porque no quedan bien en móvil
 
       # - icon: mastodon
       #   href: https://joinmastodon.org

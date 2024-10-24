@@ -1,16 +1,16 @@
 ---
-title: "Finley Malloc"
+title: "Eugenio Molina-Navarro"
 about:
   template: trestles
-  image: avatar.jpg
+  image: uge.jpg
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
+      href: "mailto: eugenio.molina@uah.es"
+    # - icon: mastodon
+    #   href: https://joinmastodon.org
+    # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+    #   href: https://bsky.app
     - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
       href: https://x.com
     - icon: github
