@@ -6,8 +6,8 @@ project:
 website:
   title: "Eugenio Molina Navarro"
   description: "I am a scientist yeah"
-  site-url: https://eugeniomolina.github.io/ugeweb/
-  repo-url: https://github.com/eugeniomolina/ugeweb.git
+  site-url: https://eugeniomolina.github.io/miweb/
+  repo-url: https://github.com/eugeniomolina/miweb.git
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
